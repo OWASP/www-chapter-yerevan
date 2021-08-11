@@ -3,7 +3,7 @@ title: events
 displaytext: Past Events and Meetings
 layout:  null
 tab: true
-order: 2
+order: 1
 tags: yerevan
 ---
 
