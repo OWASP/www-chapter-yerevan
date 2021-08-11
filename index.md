@@ -21,11 +21,11 @@ group](https://www.facebook.com/groups/688279971204810/).
 The entrance to events is open and free. Everyone is welcome to join us at our
 chapter meetings.
 
-#### Call For Speakers
+<!-- #### Call For Speakers
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Yerevan Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
 
-`owaspyerevan (at) owasp.org`
+`owaspyerevan (at) owasp.org` -->
 
 Next Meeting/Event(s)
 ---------------------
