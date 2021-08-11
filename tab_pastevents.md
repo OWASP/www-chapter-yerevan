@@ -1,5 +1,5 @@
 ---
-title: PastMeetings
+title: events
 displaytext: Past Meetings
 layout:  null
 tab: true
