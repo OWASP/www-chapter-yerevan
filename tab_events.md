@@ -1,10 +1,12 @@
 ---
+
 title: events
 displaytext: Past Meetings
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: yerevan
+
 ---
 
 # Past Meetings
