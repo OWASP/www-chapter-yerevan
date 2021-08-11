@@ -6,6 +6,7 @@ tags: Yerevan
 region: Asia
 country: Armenia
 meetup-group: OWASP-Yerevan
+level: 3
 
 ---
 <!-- rebuild -->
