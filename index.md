@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout: ../_layouts/col-sidebar
 title: OWASP Yerevan
 tags: Yerevan
 region: Asia
