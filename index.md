@@ -13,7 +13,7 @@ level: 0
 
 ## Welcome
 
-Welcome to the Armenia chapter homepage. Follow chapter news on [Twitter
+Welcome to the Yerevan chapter homepage. Follow chapter news on [Twitter
 ](https://twitter.com/OWASPYerevan) or [Facebook
 group](https://www.facebook.com/groups/688279971204810/).
 
