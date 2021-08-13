@@ -17,7 +17,7 @@ Welcome to the Armenia chapter homepage. Follow chapter news on [Twitter
 ](https://twitter.com/OWASPYerevan) or [Facebook
 group](https://www.facebook.com/groups/688279971204810/).
 
-OWASP Yerevan is proudly celebrating OWASP’s 20th Anniversary!
+#### OWASP Yerevan is proudly celebrating OWASP’s 20th Anniversary!
 
 [![OWASP 20th Anniversary Image](assets/images/OWASP_20th_Anniversary.jpeg)](https://20thanniversary.owasp.org/)
 
