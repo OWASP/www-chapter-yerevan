@@ -19,6 +19,7 @@ tags: Yerevan
 - "Bug Bounties: experience from both sides" - Davit Karapetyan
 - "ArmBounty follow-up"
 
+Hosted at [ISTC Foundation](https://www.istc.am/) - [https://goo.gl/maps/LixWapjRw7Xs75Ek9](https://goo.gl/maps/LixWapjRw7Xs75Ek9)\
 Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://www.meetup.com/owasp-yerevan/events/280461941/)
 
 
