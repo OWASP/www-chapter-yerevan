@@ -19,7 +19,7 @@ tags: Yerevan
 - "Bug Bounties: experience from both sides" - Davit Karapetyan
 - "ArmBounty follow-up"
 
-Meetup link - https://www.meetup.com/owasp-yerevan/...
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://www.meetup.com/owasp-yerevan/events/280461941/)
 
 
 #### TALK ABSTRACTS
