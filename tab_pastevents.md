@@ -24,16 +24,23 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://w
 
 
 #### TALK ABSTRACTS
-
-"CyberՀայք" by Vaagn Toukharian and  Satenik Mnatsakanyan\
-...
-
-"Bug Bounties: experience from both sides" by Davit Karapetyan\
-...
-
-"ArmBounty follow-up"\
-...
-
 \
+**"CyberՀայք" by Vaagn Toukharian and Satenik Mnatsakanyan**\
+[Vaagn Toukharian](https://www.linkedin.com/in/tukhar/) and [Satenik Mnatsakanyan](https://www.linkedin.com/in/satenikmnatsakanyan/) spoke about the "CyberՀայք" initiative which strives to spread cybersecurity awareness across Armenian schools.
+
+**"Bug Bounties: experience from both sides" by Davit Karapetyan**\
+[Davit Karapetyan](https://www.linkedin.com/in/davwwwx/) told about his experience in bug bounties from both the hunter and the company side. Slides are available at [https://go.xss.am/bbs-owasp](https://go.xss.am/bbs-owasp) and [https://go.xss.am/bbs-owasp.pdf](https://go.xss.am/bbs-owasp.pdf).
+
+**"ArmBounty follow-up"**\
+[Sona Petrosyan](https://www.linkedin.com/in/sona-petrosyan/) from [Chessify](https://chessify.me/) and [Ruben Manukyan](https://www.linkedin.com/in/ruben-manukyan-95384b14/) from [VXSoft](https://www.vxsoft.com/) shared their experience from [ArmBounty](https://armbounty.com/) live hacking events as hosts.
+
+---
+
+#### Friday, 1st October 2021
+### OWASP monthly meetup
+
+#### AGENDA:
+- TBD
+
 \
 Everyone is welcome to join us at OWASP events.
