@@ -15,9 +15,9 @@ tags: Yerevan
 ### OWASP monthly meetup
 
 #### AGENDA:
-- "CyberՀայք" - Vaagn Toukharian, Satenik Mnatsakanyan
-- "Bug Bounties: experience from both sides" - Davit Karapetyan
-- "ArmBounty follow-up"
+- "CyberՀայք" - Vaagn Toukharian, Satenik Mnatsakanyan,
+- "Bug Bounties: experience from both sides" - Davit Karapetyan,
+- "ArmBounty follow-up".
 
 Hosted at [ISTC Foundation](https://www.istc.am/) - [https://goo.gl/maps/LixWapjRw7Xs75Ek9](https://goo.gl/maps/LixWapjRw7Xs75Ek9)\
 Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://www.meetup.com/owasp-yerevan/events/280461941/)
@@ -40,7 +40,8 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://w
 ### OWASP monthly meetup
 
 #### AGENDA:
-- TBD
+- [Hayk Aslanyan](https://www.linkedin.com/in/haykaslanyan/) - BinSide: Static Analysis Framework for Defects Detection in Binary Code,
+- TBD.
 
 \
 Everyone is welcome to join us at OWASP events.
