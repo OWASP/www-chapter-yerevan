@@ -41,7 +41,11 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://w
 
 #### AGENDA:
 - [Hayk Aslanyan](https://www.linkedin.com/in/haykaslanyan/) - BinSide: Static Analysis Framework for Defects Detection in Binary Code,
-- TBD.
+- [Hayk Andriasyan](https://hackerone.com/p0wn4j?type=user) - Deserialization Attacks on Java Applications,
+- [Hrant Haroyan](https://www.linkedin.com/in/hrant-haroyan-76493b66/) - OWASP TOP 10 2021 breakdown.
+
+Hosted at [...](https://example.com/) - [https://goo.gl/maps/...](https://goo.gl/maps/...)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/.../](https://www.meetup.com/owasp-yerevan/events/.../)
 
 \
 Everyone is welcome to join us at OWASP events.
