@@ -47,5 +47,17 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://w
 Hosted at [ISTC Foundation](https://www.istc.am/) - [https://goo.gl/maps/LixWapjRw7Xs75Ek9](https://goo.gl/maps/LixWapjRw7Xs75Ek9)\
 Meetup link - [https://www.meetup.com/owasp-yerevan/events/281053655/](https://www.meetup.com/owasp-yerevan/events/281053655/)
 
+
+#### TALK ABSTRACTS
+\
+**"BinSide" by Hayk Aslanyan**\
+[Hayk Aslanyan](https://www.linkedin.com/in/haykaslanyan/) presented **BinSide** a static analysis framework for defects detection in binary code. Recroding at [https://youtu.be/VEehB28m2FM](https://youtu.be/VEehB28m2FM)
+
+**"Deserialization Attacks on Java Applications" by Hayk Andriasyan**\
+[Hayk Andriasyan](https://hackerone.com/p0wn4j?type=user) spoke about deserialization attacks on applications built on java and how to prevent those. Recording at [https://youtu.be/mZC8PeCq-_k](https://youtu.be/mZC8PeCq-_k), slides at [http://tooyn.am/owasp-des](http://tooyn.am/owasp-des).
+
+**"OWASP TOP 10 2021 breakdown" by Hrant Haroyan**\
+[Hrant Haroyan](https://www.linkedin.com/in/hrant-haroyan-76493b66/) made a dicussion and broke down the new top 10. Recording at [https://youtu.be/82ZmF2Mu0vY](https://youtu.be/82ZmF2Mu0vY).
+
 \
 Everyone is welcome to join us at OWASP events.
