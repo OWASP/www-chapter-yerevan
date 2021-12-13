@@ -24,9 +24,12 @@ tags: Yerevan
 As the event is going to in-person, there will be in-place symptom checks and please have your masks on.
 
 Hosted at [AUA](https://aua.am/), room 308E - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)
+
 <br>
 
 ---
+
+<br>
 
 #### Friday, 1st October 2021
 ### OWASP monthly meetup
@@ -54,6 +57,8 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/281053655/](https://w
 <br>
 
 ---
+
+<br>
 
 #### Friday, 3rd September 2021
 ### OWASP monthly meetup
