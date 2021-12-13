@@ -11,28 +11,17 @@ tags: Yerevan
 
 # Events
 
-#### Friday, 3rd September 2021
-### OWASP monthly meetup
+#### Wednesday, 15th December 2021
 
-#### AGENDA:
-- "CyberՀայք" - Vaagn Toukharian, Satenik Mnatsakanyan,
-- "Bug Bounties: experience from both sides" - Davit Karapetyan,
-- "ArmBounty follow-up".
+### OWASP meetup with a guest speaker
 
-Hosted at [ISTC Foundation](https://www.istc.am/) - [https://goo.gl/maps/LixWapjRw7Xs75Ek9](https://goo.gl/maps/LixWapjRw7Xs75Ek9)\
-Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://www.meetup.com/owasp-yerevan/events/280461941/)
+#### AGENDA
+[Jeroen van Ringelenstein](https://linkedin.com/in/86szybogeuyotcsdbeb) from [VASC Netherlands](https://www.vasc.international/) will present "A more sophisticated approach to test cyber resilience".
 
+#### COVID-19 Restrictions
+As the event is going to in-person, there will be in-place symptom checks and please have your masks on.
 
-#### TALK ABSTRACTS
-\
-**"CyberՀայք" by Vaagn Toukharian and Satenik Mnatsakanyan**\
-[Vaagn Toukharian](https://www.linkedin.com/in/tukhar/) and [Satenik Mnatsakanyan](https://www.linkedin.com/in/satenikmnatsakanyan/) spoke about the "CyberՀայք" initiative which strives to spread cybersecurity awareness across Armenian schools.
-
-**"Bug Bounties: experience from both sides" by Davit Karapetyan**\
-[Davit Karapetyan](https://www.linkedin.com/in/davwwwx/) told about his experience in bug bounties from both the hunter and the company side. Slides are available at [https://go.xss.am/bbs-owasp](https://go.xss.am/bbs-owasp) and [https://go.xss.am/bbs-owasp.pdf](https://go.xss.am/bbs-owasp.pdf).
-
-**"ArmBounty follow-up"**\
-[Sona Petrosyan](https://www.linkedin.com/in/sona-petrosyan/) from [Chessify](https://chessify.me/) and [Ruben Manukyan](https://www.linkedin.com/in/ruben-manukyan-95384b14/) from [VXSoft](https://www.vxsoft.com/) shared their experience from [ArmBounty](https://armbounty.com/) live hacking events as hosts.
+Hosted at [AUA](https://aua.am/), room 308E - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
 
 ---
 
@@ -58,6 +47,33 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/281053655/](https://w
 
 **"OWASP TOP 10 2021 breakdown" by Hrant Haroyan**\
 [Hrant Haroyan](https://www.linkedin.com/in/hrant-haroyan-76493b66/) made a dicussion and broke down the new top 10. Recording at [https://youtu.be/82ZmF2Mu0vY](https://youtu.be/82ZmF2Mu0vY).
+
+
+---
+
+#### Friday, 3rd September 2021
+### OWASP monthly meetup
+
+#### AGENDA:
+- "CyberՀայք" - Vaagn Toukharian, Satenik Mnatsakanyan,
+- "Bug Bounties: experience from both sides" - Davit Karapetyan,
+- "ArmBounty follow-up".
+
+Hosted at [ISTC Foundation](https://www.istc.am/) - [https://goo.gl/maps/LixWapjRw7Xs75Ek9](https://goo.gl/maps/LixWapjRw7Xs75Ek9)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/280461941/](https://www.meetup.com/owasp-yerevan/events/280461941/)
+
+
+#### TALK ABSTRACTS
+\
+**"CyberՀայք" by Vaagn Toukharian and Satenik Mnatsakanyan**\
+[Vaagn Toukharian](https://www.linkedin.com/in/tukhar/) and [Satenik Mnatsakanyan](https://www.linkedin.com/in/satenikmnatsakanyan/) spoke about the "CyberՀայք" initiative which strives to spread cybersecurity awareness across Armenian schools.
+
+**"Bug Bounties: experience from both sides" by Davit Karapetyan**\
+[Davit Karapetyan](https://www.linkedin.com/in/davwwwx/) told about his experience in bug bounties from both the hunter and the company side. Slides are available at [https://go.xss.am/bbs-owasp](https://go.xss.am/bbs-owasp) and [https://go.xss.am/bbs-owasp.pdf](https://go.xss.am/bbs-owasp.pdf).
+
+**"ArmBounty follow-up"**\
+[Sona Petrosyan](https://www.linkedin.com/in/sona-petrosyan/) from [Chessify](https://chessify.me/) and [Ruben Manukyan](https://www.linkedin.com/in/ruben-manukyan-95384b14/) from [VXSoft](https://www.vxsoft.com/) shared their experience from [ArmBounty](https://armbounty.com/) live hacking events as hosts.
+
 
 \
 Everyone is welcome to join us at OWASP events.
