@@ -11,6 +11,8 @@ tags: Yerevan
 
 # Events
 
+<br>
+
 #### Wednesday, 15th December 2021
 
 ### OWASP meetup with a guest speaker
@@ -21,7 +23,8 @@ tags: Yerevan
 #### COVID-19 Restrictions
 As the event is going to in-person, there will be in-place symptom checks and please have your masks on.
 
-Hosted at [AUA](https://aua.am/), room 308E - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Hosted at [AUA](https://aua.am/), room 308E - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)
+<br>
 
 ---
 
@@ -48,6 +51,7 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/281053655/](https://w
 **"OWASP TOP 10 2021 breakdown" by Hrant Haroyan**\
 [Hrant Haroyan](https://www.linkedin.com/in/hrant-haroyan-76493b66/) made a dicussion and broke down the new top 10. Recording at [https://youtu.be/82ZmF2Mu0vY](https://youtu.be/82ZmF2Mu0vY).
 
+<br>
 
 ---
 
