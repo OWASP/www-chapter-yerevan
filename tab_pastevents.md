@@ -13,6 +13,35 @@ tags: Yerevan
 
 <br>
 
+#### Friday, 24th December 2021
+### OWASP monthly meetup
+
+#### AGENDA
+
+- [Hayk Andriasyan](https://hackerone.com/p0wn4j?type=user) - Deep Dive into Log4Shell,
+- [Varik Matevosyan](https://twitter.com/D4RK7ET) - Exploring JS Prototype Pollution.
+
+#### COVID-19 Restrictions
+As the event is going to in-person, there will be in-place symptom checks and please have your masks on.
+
+Hosted at [ISTC Foundation](https://www.istc.am/) - [https://goo.gl/maps/LixWapjRw7Xs75Ek9](https://goo.gl/maps/LixWapjRw7Xs75Ek9)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/282801034/](https://www.meetup.com/owasp-yerevan/events/282801034/)
+
+#### TALK ABSTRACTS
+\
+**"Deep Dive into Log4Shell" by Hayk Andriasyan**\
+[Hayk Andriasyan](https://hackerone.com/p0wn4j?type=user) broke down issues behind [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228), [CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046) and [CVE-2021-45105](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45105), log4j lookups and JNDI injections. Recording at [https://youtu.be/Mxa89lfM6Lw](https://youtu.be/Mxa89lfM6Lw), slides at [https://tooyn.am/hayk-log4shell](https://tooyn.am/hayk-log4shell).
+
+**"Exploring JS Prototype Pollution" by Varik Matevosyan**\
+[Varik Matevosyan](https://twitter.com/D4RK7ET) spoke about javascript objects and prototypes, property lookups and how unsafe object property assignment may result in prototype pollution. Recording at [https://youtu.be/Wt-Xm2iY54U](https://youtu.be/Wt-Xm2iY54U), slides at [https://tooyn.am/owasp-proto](https://tooyn.am/owasp-proto), source at [https://github.com/var77/proto-pollution-owasp-yerevan](https://github.com/var77/proto-pollution-owasp-yerevan).
+
+
+<br>
+
+---
+
+<br>
+
 #### Wednesday, 15th December 2021
 
 ### OWASP meetup with a guest speaker
@@ -46,7 +75,7 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/281053655/](https://w
 #### TALK ABSTRACTS
 \
 **"BinSide" by Hayk Aslanyan**\
-[Hayk Aslanyan](https://www.linkedin.com/in/haykaslanyan/) presented **BinSide** a static analysis framework for defects detection in binary code. Recroding at [https://youtu.be/VEehB28m2FM](https://youtu.be/VEehB28m2FM), slides at [https://tooyn.am/owasp-bin](https://tooyn.am/owasp-bin).
+[Hayk Aslanyan](https://www.linkedin.com/in/haykaslanyan/) presented **BinSide** a static analysis framework for defects detection in binary code. Recording at [https://youtu.be/VEehB28m2FM](https://youtu.be/VEehB28m2FM), slides at [https://tooyn.am/owasp-bin](https://tooyn.am/owasp-bin).
 
 **"Deserialization Attacks on Java Applications" by Hayk Andriasyan**\
 [Hayk Andriasyan](https://hackerone.com/p0wn4j?type=user) spoke about deserialization attacks on applications built on java and how to prevent those. Recording at [https://youtu.be/mZC8PeCq-_k](https://youtu.be/mZC8PeCq-_k), slides at [https://tooyn.am/owasp-des](https://tooyn.am/owasp-des).
