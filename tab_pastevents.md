@@ -11,6 +11,32 @@ tags: Yerevan
 
 # Events
 
+
+<br>
+
+#### Friday, 3rd June 2022
+### OWASP monthly meetup
+
+#### AGENDA
+
+- [Sam Stepanyan](https://twitter.com/securestep9) - Using OWASP Nettacker for Recon and Vulnerability Scanning
+
+#### COVID-19 Restrictions
+As the event is going to be in-person, there will be in-place symptom checks, and please have your masks on.
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/286136433/](https://www.meetup.com/owasp-yerevan/events/286136433/)
+
+#### TALK ABSTRACT
+
+\
+**"Using OWASP Nettacker for Recon and Vulnerability Scanning" by [Sam Stepanyan](https://twitter.com/securestep9)**\
+The OWASP Nettacker project was created to automate information gathering, vulnerability scanning, and in general to aid the penetration testing engagements. Nettacker is able to run various scans using a variety of methods and generate scan reports for applications and networks, including services, bugs, vulnerabilities, misconfigurations, default credentials and many other cool features - for example the ability to chain different scan methods. This relatively new (Summer 2017) and a lesser-known OWASP project has generated a huge amount of interest at BlackHat Europe 2018/2019 Arsenal live demo gathering massive crowds of seasoned hackers and penetration testers eager to see this new tool in action. This talk will showcase the OWASP Nettacker project giving an overview of its features and including a live demo of the tool. Overview by Sam - [https://youtu.be/Y4ANGdG8NvU](https://youtu.be/Y4ANGdG8NvU), project - [https://github.com/OWASP/Nettacker](https://github.com/OWASP/Nettacker).
+
+<br>
+
+---
+
 <br>
 
 #### Thursday, 19th May 2022
@@ -31,6 +57,10 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/285937721/](https://w
 \
 **"Scaling Application and Infrastructure Security around Cloud in a Hyper Growth Company" by Paul Intrarakha**\
 Modern web applications are growing ever complex, whether it is operating in a multi-cloud ecosystem, integrating and handling data within a web of 3rd party providers, or engaging with hundreds of software engineers, the pace of web development has only increased. Now imagine this at a hyper growth company! During this talk, Paul shared not only the security practices that have worked and allowed Information Security to scale with the business, but also the challenges to think and look forward to. Paul Intrarakha is the Senior Principal, Application Security Architect at ServiceTitan. His past leadership experience includes services at Green Dot Corporation and The Boeing Company. Slides at [https://drive.google.com/file/d/...](https://drive.google.com/file/d/1GUo2Jye68BBXIdc1dCuG9WTJpv1aaRms/view?usp=sharing).
+
+<br>
+
+---
 
 <br>
 
@@ -55,6 +85,10 @@ Meetup link - [https://www.meetup.com/owasp-yerevan/events/284720489/](https://w
 
 **"Fishing vs Phishing" by Mane Hambardzumyan**\
 [Mane Hambardzumyan](https://twitter.com/daemoniiuum) broke down categories of phishing, concepts behind those and how it is similar to fishing. Slides at [https://drive.google.com/file/d/...](https://docs.google.com/presentation/d/16hfMeluciWKKUilCBSoR6zQDZTf6UWgP/edit?usp=sharing&ouid=117501248311948690257&rtpof=true&sd=true).
+
+<br>
+
+---
 
 <br>
 
