@@ -11,6 +11,29 @@ tags: Yerevan
 
 # Events
 
+<br>
+
+#### Monday, 20th March 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- [Hayk Andriasyan](https://twitter.com/p0wn4j) - Vulnerabilities in Java:Spring4Shell
+
+
+Hosted at [CyHub Armenia](https://www.cyhub.am/) - [https://goo.gl/maps/aBfktrfBsmWT9tW7A](https://goo.gl/maps/aBfktrfBsmWT9tW7A)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/292254413/](https://www.meetup.com/owasp-yerevan/events/292254413/)
+
+#### TALK ABSTRACT
+
+
+\
+**"Vulnerabilities in Java:Spring4Shell" by [Hayk Andriasyan](https://twitter.com/p0wn4j)**\
+Hayk Andriasyan is an experienced cybersecurity professional with extensive knowledge in software development and penetration testing. In this talk he took a deep dive into Java and Spring Framework internals to understand what makes the CVE-2022-22965 Spring4Shell attack work. Slides at [https://drive.google.com/file/d/...](https://drive.google.com/file/d/1V-DTsbehA90gLjTZimZI3Xz7oPkLK6gE/view?usp=share_link).
+
+<br>
+
+--- 
 
 <br>
 
