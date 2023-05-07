@@ -13,7 +13,7 @@ tags: Yerevan
 
 <br>
 
-#### Friday, 6th May 2023
+#### Saturday, 6th May 2023
 ### OWASP monthly meetup
 
 #### AGENDA
