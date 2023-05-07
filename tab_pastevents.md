@@ -24,7 +24,7 @@ tags: Yerevan
 Hosted at [AUA](https://aua.am/), room 313W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
 Meetup link - [https://www.meetup.com/owasp-yerevan/events/293342425/](https://www.meetup.com/owasp-yerevan/events/293342425/)
 
-Slides are available [https://drive.google.com/drive/folders/1-L7UPC8ZCFUCj0rO2q-GJHBP5wRBC71p](here)
+Slides are available [here](https://drive.google.com/drive/folders/1-L7UPC8ZCFUCj0rO2q-GJHBP5wRBC71p)
 
 <br>
 
