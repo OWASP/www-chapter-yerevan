@@ -2,6 +2,8 @@
 * [Vaagn Toukharian](mailto:vaagn.toukharian@owasp.org)
 * [Satenik Mnatsakanyan](mailto:satenik.mnatsakanyan@owasp.org)
 * [Narek Jilavyan](mailto:narek.jilavyan@owasp.org)
+* [Samvel Martirosyan](mailto:samvel.martirosyan@owasp.org)
+* [Samvel Harutyunyan](mailto:samvel.harutyunyan@owasp.org)
 
 
 ### Twitter Feed
