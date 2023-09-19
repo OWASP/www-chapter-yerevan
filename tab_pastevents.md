@@ -23,7 +23,7 @@ tags: Yerevan
 - Pegasus/Predator and other spyware detection with free and paid programs, including MVT, iMazing, iVerify: [Artur Papyan](https://twitter.com/Kornelij)
 
 
-Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
 Meetup link - [https://www.meetup.com/owasp-yerevan/events/295461329](https://www.meetup.com/owasp-yerevan/events/295461329)
 
 <br>
