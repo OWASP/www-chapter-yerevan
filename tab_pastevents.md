@@ -18,6 +18,25 @@ tags: Yerevan
 
 #### AGENDA
 
+- Introduction of new chapter leaders: [Samvel Martirosyan](https://twitter.com/Kornelij), Samvel Harutyunyan
+- Spyware in Armenia. General steps to be protected: [Samvel Martirosyan](https://twitter.com/Kornelij)
+- Pegasus/Predator and other spyware detection with free and paid programs, including MVT, iMazing, iVerify: [Artur Papyan](https://twitter.com/Kornelij)
+
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/295461329](https://www.meetup.com/owasp-yerevan/events/295461329)
+
+<br>
+
+--- 
+
+<br>
+
+#### Saturday, 6th May 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
 - [Narek Jilavyan](https://www.linkedin.com/in/narek-jilavyan-174b4878/) - Intro to OWASP and OWASP Top 10
 
 
