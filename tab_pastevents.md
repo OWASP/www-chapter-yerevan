@@ -13,14 +13,51 @@ tags: Yerevan
 
 <br>
 
-#### Saturday, 6th May 2023
+#### Wednesday, 25th October 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Unlocking Barriers - Bypassing Security Checks & SDK Protection: [Tigran Avanesyan](https://www.linkedin.com/in/tigran-avanesyan-5a999511b/)
+
+
+Hosted at [AUA](https://aua.am/), room 416W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/296918134/](https://www.meetup.com/owasp-yerevan/events/296918134/)
+
+Slides are available [here](https://docs.google.com/presentation/d/1udPdlUP0dAiCCdUmcu73-041YUUn8VFs/edit?usp=sharing&ouid=103310088560462185828&rtpof=true&sd=true)
+
+<br>
+
+--- 
+
+<br>
+
+#### Wednesday, 27th September 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- LLMs and OWASP: [Vaagn Toukharian](https://www.linkedin.com/in/tukhar/)
+- From getting interested to having an interview: Norayr Arakelyan, Grigori Hakobyan
+
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/296360015](https://www.meetup.com/owasp-yerevan/events/296360015)
+
+<br>
+
+--- 
+
+<br>
+
+#### Wednesday, 30th August 2023
 ### OWASP monthly meetup
 
 #### AGENDA
 
 - Introduction of new chapter leaders: [Samvel Martirosyan](https://twitter.com/Kornelij), Samvel Harutyunyan
 - Spyware in Armenia. General steps to be protected: [Samvel Martirosyan](https://twitter.com/Kornelij)
-- Pegasus/Predator and other spyware detection with free and paid programs, including MVT, iMazing, iVerify: [Artur Papyan](https://twitter.com/Kornelij)
+- Pegasus/Predator and other spyware detection with free and paid programs, including MVT, iMazing, iVerify: [Artur Papyan](https://twitter.com/ditord)
 
 
 Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
