@@ -13,6 +13,23 @@ tags: Yerevan
 
 <br>
 
+#### Wednesday, 27th December 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Bootstrappable builds: Samvel Harutyunyan
+- New Armenian cyber security law proposal discussion
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/297976417/](https://www.meetup.com/owasp-yerevan/events/297976417/)
+
+<br>
+
+--- 
+
+<br>
+
 #### Wednesday, 25th October 2023
 ### OWASP monthly meetup
 
