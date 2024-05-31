@@ -13,6 +13,159 @@ tags: Yerevan
 
 <br>
 
+#### Wednesday, 29th May 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- CERT-AM: reborn out of the ashes: [Antranig Vartanian](https://x.com/antranigv/), Illuria Security
+- Surprise visit and presentation of OWASP: [Sam Stepanyan](https://x.com/securestep9)
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/301273152/](https://www.meetup.com/owasp-yerevan/events/301273152/)
+
+<br>
+
+---
+
+<br>
+
+#### Wednesday, 27th March 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Why is OpenSSL important: Samvel Harutyunyan, ISRC; Levon Hovhannisyan, Cifora
+- Data management in Armenia public sector: Gevorg Hayrapetyan, [Artur Papyan](https://x.com/ditord/), CyberHUB
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/299971130/](https://www.meetup.com/owasp-yerevan/events/299971130/)
+
+<br>
+
+---
+
+<br>
+
+#### Wednesday, 28th February 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Decade of hacking attacks against Armenia by Russian APT 28 (2013-2023): [Samvel Martirosyan](https://twitter.com/Kornelij)
+- UAV Information security issues: Sona Khachatryan
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/299417764/](https://www.meetup.com/owasp-yerevan/events/299417764/)
+
+<br>
+
+---
+
+<br>
+
+#### Wednesday, 31st January 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- LLM OWASP Top 10: [Vaagn Toukharian](https://www.linkedin.com/in/tukhar/)
+- Offline Armenia Lab: [Narek Jilavyan](https://www.linkedin.com/in/narek-jilavyan-174b4878/), Samvel Harutyunyan
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/298726361/](https://www.meetup.com/owasp-yerevan/events/298726361/)
+
+<br>
+
+---
+
+<br>
+
+#### Wednesday, 27th December 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Bootstrappable builds: Samvel Harutyunyan
+- New Armenian cyber security law proposal discussion
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/297976417/](https://www.meetup.com/owasp-yerevan/events/297976417/)
+
+<br>
+
+--- 
+
+<br>
+
+#### Wednesday, 27th December 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Bootstrappable builds: Samvel Harutyunyan
+- New Armenian cyber security law proposal discussion
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/297976417/](https://www.meetup.com/owasp-yerevan/events/297976417/)
+
+<br>
+
+--- 
+
+<br>
+
+#### Wednesday, 27th December 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Bootstrappable builds: Samvel Harutyunyan
+- New Armenian cyber security law proposal discussion
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/297976417/](https://www.meetup.com/owasp-yerevan/events/297976417/)
+
+<br>
+
+--- 
+
+<br>
+
+#### Wednesday, 28th February 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Bootstrappable builds: Samvel Harutyunyan
+- New Armenian cyber security law proposal discussion
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/297976417/](https://www.meetup.com/owasp-yerevan/events/297976417/)
+
+<br>
+
+--- 
+
+<br>
+
+#### Wednesday, 31st January 2023
+### OWASP monthly meetup
+
+#### AGENDA
+
+- LLM OWASP Top 10: [Vaagn Toukharian](https://www.linkedin.com/in/tukhar/)
+- Offline Armenia Lab: [Narek Jilavyan](https://www.linkedin.com/in/narek-jilavyan-174b4878/), Samvel Harutyunyan
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/298726361/](https://www.meetup.com/owasp-yerevan/events/298726361/)
+
+<br>
+
+--- 
+
+<br>
+
 #### Wednesday, 27th December 2023
 ### OWASP monthly meetup
 
