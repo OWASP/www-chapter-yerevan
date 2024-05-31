@@ -19,7 +19,7 @@ tags: Yerevan
 #### AGENDA
 
 - CERT-AM: reborn out of the ashes: [Antranig Vartanian](https://x.com/antranigv/), Illuria Security
-- Surprise visit and presentation of OWASP: [Sam Stepanyan](https://x.com/securestep9)
+- Surprise visit and presentation about OWASP: [Sam Stepanyan](https://x.com/securestep9)
 
 Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
 Meetup link - [https://www.meetup.com/owasp-yerevan/events/301273152/](https://www.meetup.com/owasp-yerevan/events/301273152/)
