@@ -10,10 +10,133 @@ tags: Yerevan
 ---
 
 # Events
+#### Wednesday, 29th January 2025
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Community, ethics, attribution - Invitation for public discussion: Ruben Muradyan
+- Armenian cyber security law proposal discussion
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/305848739/](https://www.meetup.com/owasp-yerevan/events/305848739/)
 
 <br>
 
-#### Wednesday, 29th May 2023
+
+---
+
+<br>
+
+#### Wednesday, 25th December 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- ArmSec 2024 conference summary
+- Armenian cyber security law proposal discussion
+
+Hosted at [Meridian Expo & Event Centre](https://www.meridianexpo.am/), [Voskerichneri St., 1 Building, 7th floor.](https://maps.app.goo.gl/9uUrjJd3pqDES97z9)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/305249428/](https://www.meetup.com/owasp-yerevan/events/305249428/)
+
+<br>
+
+
+---
+
+<br>
+
+#### Wednesday, 27th November 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- The status of Digitization of different sectors in Armenia: risk assessment: Tigran Hovhannisyan, Samvel Harutyunyan
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/304774408/](https://www.meetup.com/owasp-yerevan/events/304774408/)
+
+<br>
+
+
+---
+
+<br>
+
+#### Wednesday, 30th October 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Linux boot process from start button to Graphics: Jey Hett, Cifora
+- Digital Ruble: Tigran Abgaryan, T-Bank (ex-Tinkoff)
+- Why even dumb phishing still perfectly works: [Samvel Martirosyan](https://twitter.com/Kornelij)
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/304248731/](https://www.meetup.com/owasp-yerevan/events/304248731/)
+
+<br>
+
+
+---
+
+<br>
+
+#### Wednesday, 25th September 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- Discussion of cyber security, personal information protection and other laws/law proposals: Gevorg Hayrapetyan
+- Threat intelligence and threat landscape: [Levon Isajanyan](https://www.linkedin.com/in/levon-isajanyan-09b90b130)
+- Key signing
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/303565177/](https://www.meetup.com/owasp-yerevan/events/303565177/)
+
+<br>
+
+
+---
+
+<br>
+
+#### Wednesday, 28th August 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- OpenSSL Bootstrap: Andranik Abrahamyan, Samvel Harutyunyan
+- CERT-AM presents: NetAdoption! how digital and secure are we?: [Antranig Vartanian](https://x.com/antranigv/), Illuria Security
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/303070942/](https://www.meetup.com/owasp-yerevan/events/303070942/)
+
+<br>
+
+
+---
+
+<br>
+
+#### Wednesday, 31st July 2024
+### OWASP monthly meetup
+
+#### AGENDA
+
+- LETS NOT GET HACKED: some vulnerabilities and how to avoid them: [Davit Karapetyan](https://www.linkedin.com/in/davwwwx/)
+- Details about the cameras draft law - [Artur Papyan](https://x.com/ditord/), CyberHUB
+
+Hosted at [AUA](https://aua.am/), room 314W - [https://goo.gl/maps/p5mr6WxPoaKmx9C98](https://goo.gl/maps/p5mr6WxPoaKmx9C98)\
+Meetup link - [https://www.meetup.com/owasp-yerevan/events/302352402/](https://www.meetup.com/owasp-yerevan/events/302352402/)
+
+<br>
+
+---
+
+<br>
+
+#### Wednesday, 29th May 2024
 ### OWASP monthly meetup
 
 #### AGENDA
