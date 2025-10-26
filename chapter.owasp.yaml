@@ -1,0 +1,34 @@
+community:
+  - name: chapter-yerevan
+    platform: slack
+    url: https://owasp.slack.com/archives/C02ETPT5HL0
+leaders:
+  - name: Vaagn Toukharian
+    email: vaagn.toukharian@owasp.org
+  - name: Satenik Mnatsakanyan
+    email: satenik.mnatsakanyan@owasp.org
+  - name: Narek Jilavyan
+    email: narek.jilavyan@owasp.org
+    github: njilav
+  - name: Samvel Martirosyan
+    email: samvel.martirosyan@owasp.org
+  - name: Samvel Harutyunyan
+    email: samvel.harutyunyan@owasp.org
+location:
+  country: Armenia
+  country_code: AM
+  region: Armenia
+  city: Yerevan
+  latitude: 40.1777112
+  longitude: 44.5126233
+meetup_group: OWASP-Yerevan
+name: OWASP Yerevan
+repositories:
+  - name: www-chapter-yerevan
+    url: https://github.com/OWASP/www-chapter-yerevan
+    description: OWASP Yerevan Chapter github repository
+tags:
+  - Yerevan
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-yerevan
